@@ -1,1 +1,13 @@
 venv
+db.sqlite3
+__pycache__/
+*.pyc
+.DS_Store
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
