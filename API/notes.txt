@@ -1,0 +1,8 @@
+Steps to create a docker file
+
+1. Create a dockerfile 
+2. build the docker image
+3. login to dockerhub
+4. push the image to dockerhub
+5. pull the docker image 
+6. run the docker image locally
