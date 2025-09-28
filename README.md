@@ -2,23 +2,11 @@
 
 Predict whether a customer will churn using machine learning. This project includes data preprocessing, model training with LightGBM, and a REST API for predictions using FastAPI. Docker support is included for easy deployment.
 
----
-
-## Table of Contents
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Training the Model](#training-the-model)
-- [Running the API](#running-the-api)
-- [Docker Deployment](#docker-deployment)
-- [Troubleshooting](#troubleshooting)
-- [Author & License](#author--license)
-
----
 
 ## Project Structure
 
 Customer_Churn_Prediction/
+```
 ├── API/
 │ ├── app.py
 │ ├── model/
@@ -30,7 +18,7 @@ Customer_Churn_Prediction/
 │ └── model.pkl
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## Features
