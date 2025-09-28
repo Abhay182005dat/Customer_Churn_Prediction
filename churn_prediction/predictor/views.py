@@ -7,7 +7,7 @@ import json
 import pickle
 import os
 
-FASTAPI_URL = ''
+FASTAPI_URL = 'http://localhost:8000/predict'
 
 def predict_churn(request):
     prediction = None

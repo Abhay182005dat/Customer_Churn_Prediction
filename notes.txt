@@ -1,0 +1,3 @@
+The API folder consists of my project being implemented using fastapi & docker .
+
+The churn prediction is the same project implemented using Django.
