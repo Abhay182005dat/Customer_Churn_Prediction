@@ -11,3 +11,4 @@ __pycache__/
 *.pyd
 *.swp
 *.swo
+tf_gpu_env
